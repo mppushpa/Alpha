@@ -1,0 +1,174 @@
+Admin Login Details
+
+Shoperstack Admin user id &password
+pushpa123@gmail.com	
+Admin1@123
+
+Merchant A/c cerated
+dishan123@gmail.com
+Dishan@123
+
+
+Shoper User
+dimpana123@gmail.com
+Dimpana@123
+
+Steps to creat Merchant:
+
+Navigate to application.
+scrool down and click on create Shopper/Merchant Link
+3.enter the mail ID of admin under which you want to create the merhant click on merchant signup.
+4.enter user information, compnany information, company address and click on create button.
+  Merchant accout created successfully message is displayed and admin should approve the account.
+
+Role of Merchant Module:
+1.Merchant can add product
+2.Merchant can delet the product.
+3.Merchant can edit the profile. 
+
+Steps to add the product:
+1. Navigate to application
+2.Click on Login button and login as merchant
+3. Click on add product button> enter the details > click on save product button > click on submit products button.
+
+Steps to edit product>
+1. Navigate to application.
+2. Click on login button and login as merchant.
+3. select the product and click on edit profile.
+4. D changes and click an update product details button the product will br edited.
+
+
+Role Shopper module:
+
+1.Shoper can search the product.
+2.Shoper can add to cart.
+3.Shoper can add product to wishlist.
+4.Shoper can purchase the product.
+5.Shoper can cancel the product.
+6.Shoper can change the delivery status of product.
+7.Shoper can creat the Vocher.
+
+ 
+Steps to create shopper account.
+1.Navigate to aplliction,home page will be displayed.
+2.Scroll down and click on create shopper/merchant link.
+3.Enter the admin mail and click on attach button.
+4.Enter the details of shopper and click on submit button >>Account created confirmation message will be displayed.
+
+Steps to search the product.
+
+1. Navigate to application.
+2. Click on login button.
+3. Enter valid username and passward and click on login button.
+4. Enter the product in search text filed and click on search button.Tha matchnin product will be displayed.
+
+
+How to take purchase a product on cash on delivery.
+ 1. Login as shopper
+ 2. Search for product.
+ 3.Add to cart
+ 4. Go to the cart
+ 5. Click on Buy now
+6. Click on add new address,and add the address.
+7.Select the address, 
+8. Click on proceed.
+9. Select the option as cash on delivery.
+10.click on procced.
+11.Go to my orders
+12.click on invoice button.
+13. Click on track order.
+
+
+How to make order Delivered.
+
+1.Go to help center.
+2.Click on Delivered order.
+3.Enter Order ID.
+4. Click On deliver.
+5. Go to my order.
+
+
+How shoper will purshase the product by using online net banking
+
+1.login as shopper
+2.search for product.
+3.Add to cart.
+4.go to cart.
+5.click on by now.
+6. Select the address.
+7.Click on procced.
+8.Select net banking.
+9.Click on procced.
+10.Select bank name & Click on submit. 
+
+ How to Creat online banking Account.       
+ AC-NO : 3013401201807979
+
+Username : dimpana123@gmail.com
+
+Password : OdVfHzK
+
+Balance : Rs.250000
+
+
+1.Click on help center.
+2.Click on net banking.
+3.Select one bank
+4.Click on Submit.
+5.Copy paste Banking data into note pad
+6. Go back to your shoping flow.
+
+
+How to purchase the product by using Credit or debit card.
+1. Login as shopper.
+2.Search for a product.
+3. Add to the cart.
+4. Go to Cart.
+5. Click on buy now.
+6. Select tha address.
+7 Click on procced.
+8.Click on add card.
+9.Select the card
+10 Enter the card pin.
+11. Click on submit.
+12. Click on Proceed.
+
+
+How to generate the card.
+
+1.Go to help center
+2.Click on debit card.
+3.select one bank.
+4.Click on submit.
+5.Copy and paste in the note pad.
+
+
+Bank : TCICI Bank
+Name On Card : Dimpana
+
+Card Number : 3014401191609323
+
+CVV : 321
+
+PIN : 1228
+
+Expiry : 8/28
+
+Balance : 100000
+
+Credit Card
+Name On Card : Dimpana
+Card Number : 5014401191608120
+
+CVV : 485
+
+PIN : 5543
+
+Expiry : 8/28
+
+Balance : 100000
+
+Issued By : TBI Bank
+
+
+
